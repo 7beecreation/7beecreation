@@ -4,5 +4,9 @@
 - ✨ I.m good at HTML,CSS, Bootstrap, React, Javascript, Adobe Photoshop, Adobe Illustrator
 - 👋 I know Foundation, Material UI, Figma, Firebase
 - 💞️ I’m looking to collaborate on any front end project 
-- 📫 How to reach me 7beecreation@gmail.com
+- 📫 How to reach me 
+      -> 7beecreation@gmail.com
+      -> https://www.upwork.com/freelancers/~019780cfe5e9a6a151
+      -> www.linkedin.com/in/rabia-sammi
+      ->rabia.sammi@gmail.com
 
